@@ -1,2 +1,2 @@
-# E-SHOP
-E_-SHOP
+
+it was a project for my university in ontocentric programming.
